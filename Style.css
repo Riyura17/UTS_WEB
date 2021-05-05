@@ -40,7 +40,7 @@ ul li.active a{
 .title{
 	width: 29%;
 	position: absolute;
-	top: 30%;
+	top: 20%;
 	left: 35%;
 	text-align: center;
 }
@@ -51,5 +51,22 @@ ul li.active a{
 .title h2{
 	color: #808080;
 	font-size: 15px;
-
+}
+.responsive{
+	max-width: 300px;
+	float: left;
+	margin-left: 30px;
+}
+.galeri{
+	border: 0px;
+}
+.galeri img{
+	width: 100%;
+	height: auto;
+}
+.album {
+	width: 100%;
+	position: absolute;
+	top: 60%;
+	left: 0%;
 }
